@@ -1,0 +1,17 @@
+input {
+    color: black;
+    text-align: center;
+    width: 15%;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+button {
+    color:black;
+    text-align: center;
+    width: 10%;
+    height: 10%;
+}
+button:hover {
+    background-color: rgb(92, 153, 182); 
+}
